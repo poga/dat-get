@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const hyperdrive = require('hyperdrive')
 const memdb = require('memdb')
 const swarm = require('hyperdiscovery')
